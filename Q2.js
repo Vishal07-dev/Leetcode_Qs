@@ -7,8 +7,7 @@
 // Please solve it without using lodash's _.chunk function
 
 
-const arr=[1,2,3,4,5]
-let size =3
+
 let chunk = function(arr,size)
 {
 
