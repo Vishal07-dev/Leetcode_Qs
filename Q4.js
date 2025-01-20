@@ -30,4 +30,4 @@ console.log(expect(5).toBe(5))
 console.log(expect(5).toBe(null))
 console.log(expect(5).notToBe(5))
 
-// link of question == https://leetcode.com/problems/to-be-or-not-to-be/description/?envType=study-plan-v2&envId=30-days-of-javascript
+// link of questions == https://leetcode.com/problems/to-be-or-not-to-be/description/?envType=study-plan-v2&envId=30-days-of-javascript
