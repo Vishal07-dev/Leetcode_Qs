@@ -4,7 +4,7 @@
 
 // You may assume the array is the output of JSON.parse. In other words, it is valid JSON.
 
-// Please solve it without using lodash's _.chunk function
+// Please solve it without using lodash's _.chunk functions
 
 
 
