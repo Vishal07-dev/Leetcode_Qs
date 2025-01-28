@@ -11,10 +11,15 @@ var filter = function(arr, fn) {
     {
         if(fn(arr[i],i))
         {
-            newarr.push(arr[i],i)
+            newarr.push(arr[i])
         }
     }
     return newarr
     
 };
+let arr = [0,10,20,30]
+let fn = function greaterThan10(n) { return n > 10; }
 
+
+
+console.log(filter(arr,fn));
