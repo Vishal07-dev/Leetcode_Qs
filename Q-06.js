@@ -19,4 +19,6 @@ const fn = function (value) {
 };
 
 // Call map with fn
-map([1, 2, 3], fn);
+
+console.log(map([1, 2, 3], fn))
+
