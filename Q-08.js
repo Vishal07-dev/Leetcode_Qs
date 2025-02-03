@@ -11,7 +11,7 @@ var reduce = function(nums, fn, init) {
         res = fn(res,element)
     }
 
-    return res
+     return res
 };
 
 let nums = [1,2,3,4]

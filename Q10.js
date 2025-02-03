@@ -5,7 +5,7 @@
 var argumentsLength = function(...args) {
     let count=args
     
-    return console.log(count.length);
+     return console.log(count.length);
     
     
 };

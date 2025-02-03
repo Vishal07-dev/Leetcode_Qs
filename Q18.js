@@ -10,7 +10,7 @@ var TimeLimitedCache = function() {
 */
 TimeLimitedCache.prototype.set = function(key, value, duration) {
 
-let haveval =  this.map.has(key);
+ let haveval =  this.map.has(key);
 if(haveval) clearTimeout(this.map.get(key).timer);
 
 

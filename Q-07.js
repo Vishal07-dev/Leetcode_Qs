@@ -14,7 +14,7 @@ var filter = function(arr, fn) {
             newarr.push(arr[i])
         }
     }
-    return newarr
+     return newarr
     
 };
 let arr = [0,10,20,30]

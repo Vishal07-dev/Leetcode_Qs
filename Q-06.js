@@ -15,7 +15,7 @@ var map = function (arr, fn) {
 // Define fn
 const fn = function (value) {
     console.log("Processing value:", value); // Log the current value being processed
-    return value
+     return value
 };
 
 // Call map with fn

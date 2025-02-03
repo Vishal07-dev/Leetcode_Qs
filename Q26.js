@@ -12,5 +12,5 @@ function flat (arr,n)
         }
     }
 
-    return result
+     return result
 }

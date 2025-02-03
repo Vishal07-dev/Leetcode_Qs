@@ -22,7 +22,7 @@ var promiseAll = function(functions) {
 
     })
 
-    })
+     })
     
 };
 

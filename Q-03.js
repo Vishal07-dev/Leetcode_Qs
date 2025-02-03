@@ -4,7 +4,7 @@ let createCounter=function(val){
 
   return function()
   {
-    return counter++
+      return counter++
   }
 
 }

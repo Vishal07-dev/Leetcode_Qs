@@ -9,7 +9,7 @@ Array.prototype.groupBy = function(fn) {
        obj[key]=obj[key]||[]
        obj[key] ? obj[key].push(item) : obj[key] = item
     })
-    return obj
+     return obj
     };
     
     /**

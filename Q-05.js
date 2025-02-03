@@ -17,7 +17,7 @@ var createCounter = function(init) {
         },
         reset:function(){
             value=init
-            return value
+              return value
         },
     }
     return object

@@ -5,7 +5,7 @@ let expect = function(val)
         toBe:function(value1){
             if(val===value1)
             {
-                return true
+                  return true
             }
             else
             {

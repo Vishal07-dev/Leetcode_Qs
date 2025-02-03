@@ -6,7 +6,7 @@ Array.prototype.last = function() {
     {
         return -1
     }
-    else
+     else
     {
         return this[this.length - 1]
     }

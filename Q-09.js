@@ -12,7 +12,7 @@ var compose = function(functions) {
            
           x=functions[i](x)   
         }
-     return x  
+       return x  
     }
 };
 

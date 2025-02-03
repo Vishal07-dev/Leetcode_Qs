@@ -22,7 +22,7 @@ var timeLimit = function(fn, t) {
                 });
 
             let timer = setTimeout(()=>
-            {
+             {
                 rej("Time Limit Exceeded")
             },t)
      })   

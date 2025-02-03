@@ -9,7 +9,7 @@ arr2.forEach(item => {
         let existing = uniqueMap.get(item.id);
         console.log(existing);
         
-        uniqueMap.set(item.id, { ...existing, ...item });
+         uniqueMap.set(item.id, { ...existing, ...item });
         console.log(uniqueMap);
         
     } else {
